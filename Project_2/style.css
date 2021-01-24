@@ -1,0 +1,58 @@
+#image1 {
+ width: 60%;
+ float: right;
+}
+
+.nav-item {
+ color: white;
+ font-size: 2.5rem;
+ text-decoration: none;
+}
+
+.nav {
+ display: flex;
+ justify-content: space-around;
+ padding: 10px 20%;
+ background-image: linear-gradient(
+  to right,
+  #255abe,
+  #5b91e9
+ );
+
+ /* #757ff7; */
+ /* #255abe; */
+ /* #B4C6F9 */
+ /* #5B91E9 */
+}
+.skill-color {
+ background-image: linear-gradient(
+  to right,
+  #255abe,
+  #5b91e9
+ );
+}
+
+.skills-nav {
+ color: white;
+ display: flex;
+ justify-content: space-around;
+ padding: 10px 10%;
+ margin: 0;
+}
+
+html,
+body {
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri,
+  'Trebuchet MS', sans-serif;
+ margin: 0px;
+}
+#content {
+ text-align: center;
+}
+#content p {
+ font-size: 1.4rem;
+}
+
+#header {
+ padding: 4%;
+}
